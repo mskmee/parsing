@@ -1,0 +1,1389 @@
+[
+    {
+        "book_url": "https://www.labirint.ru/books/834362/",
+        "book_title": "Black Hat Python. Программирование для хакеров и пентестеров",
+        "book_autor": "Зейтц, Арнольд",
+        "price": {
+            "old_price": "1983",
+            "price": "1547"
+        },
+        "img_url": "https://img4.labirint.ru/rc/d33b1d37a8d5d0aa5ee1a85d5068d23e/246x330/books84/834362/cover.jpg?1637666760"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/643363/",
+        "book_title": "Идеальный программист. Как стать профессионалом разработки ПО",
+        "book_autor": "Роберт Мартин",
+        "price": {
+            "old_price": "963",
+            "price": "751"
+        },
+        "img_url": "https://img3.labirint.ru/rc/15231cd1301d656dbecb9c163b741011/246x330/books65/643363/cover.jpg?1598959673"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/838455/",
+        "book_title": "Изучаем C# через разработку игр на Unity",
+        "book_autor": "Харрисон Ферроне",
+        "price": {
+            "old_price": "1816",
+            "price": "1416"
+        },
+        "img_url": "https://img3.labirint.ru/rc/4d347e4eda97e23d4a6b7b636e6941ae/246x330/books84/838455/cover.jpg?1639733134"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/386601/",
+        "book_title": "Архитектура компьютера",
+        "book_autor": "Таненбаум, Остин",
+        "price": {
+            "old_price": "2597",
+            "price": "2026"
+        },
+        "img_url": "https://img3.labirint.ru/rc/23a63fb6f0d84a3a5395b9e05135ded9/246x330/books39/386601/cover.jpg?1598869499"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/843295/",
+        "book_title": "System Design. Подготовка к сложному интервью",
+        "book_autor": "Алекс Сюй",
+        "price": {
+            "old_price": "1649",
+            "price": "1286"
+        },
+        "img_url": "https://img3.labirint.ru/rc/ea5594f6f404708e2e07194fbfe5973a/246x330/books85/843295/cover.jpg?1643700309"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/824993/",
+        "book_title": "Head First. Паттерны проектирования",
+        "book_autor": "Фримен, Сьерра",
+        "price": {
+            "old_price": "2430",
+            "price": "1895"
+        },
+        "img_url": "https://img3.labirint.ru/rc/5dc8a3555cfcbf5d858a29e9a3aaec4b/246x330/books83/824993/cover.jpg?1632921918"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/848217/",
+        "book_title": "Профессиональный бенчмарк. Искусство измерения производительности",
+        "book_autor": "Андрей Акиньшин",
+        "price": {
+            "old_price": "3329",
+            "price": "2597"
+        },
+        "img_url": "https://img3.labirint.ru/rc/4b8088770bd56137ef9669fa880f4d9b/246x330/books85/848217/cover.jpg?1645716338"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/846568/",
+        "book_title": "Этичный хакинг. Практическое руководство по взлому",
+        "book_autor": "Дэниел Грэм",
+        "price": {
+            "old_price": "2649",
+            "price": "2066"
+        },
+        "img_url": "https://img4.labirint.ru/rc/c8d18ea3d5cb2d5651b75e277513e1f6/246x330/books85/846568/cover.jpg?1645176306"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/830641/",
+        "book_title": "Основы построения экономических моделей в Excel. Учебник для СПО",
+        "book_autor": "Воскобойников, Мухина",
+        "price": {
+            "old_price": "2146",
+            "price": "1631"
+        },
+        "img_url": "https://img3.labirint.ru/rc/ba58001b591ae6733350790a881d4648/246x330/books84/830641/cover.jpg?1645694704"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/845326/",
+        "book_title": "Программирование на языке Си.Учебное пособие для СПО",
+        "book_autor": "Сергей Рацеев",
+        "price": {
+            "old_price": "3510",
+            "price": "2668"
+        },
+        "img_url": "https://img4.labirint.ru/rc/209eb1fa1bf61864329ee4b9c7159cb9/246x330/books85/845326/cover.jpg?1645694725"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/845328/",
+        "book_title": "JavaScript.Как писать программы.Учебное пособие для вузов",
+        "book_autor": "Валерий Янцев",
+        "price": {
+            "old_price": "2537",
+            "price": "1928"
+        },
+        "img_url": "https://img4.labirint.ru/rc/a6c864974b3684867d479851c0ed8dfb/246x330/books85/845328/cover.jpg?1645694727"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/845329/",
+        "book_title": "JavaScript.Как писать программы Учебное пособие для СПО",
+        "book_autor": "Валерий Янцев",
+        "price": {
+            "old_price": "2537",
+            "price": "1928"
+        },
+        "img_url": "https://img3.labirint.ru/rc/25d2823a6baeda4e9800469bc9f68a73/246x330/books85/845329/cover.jpg?1645694728"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/521754/",
+        "book_title": "Теория автоматического управления в примерах и задачах с решениями в MATLAB. Учебное пособие",
+        "book_autor": "Гайдук, Пьявченко",
+        "price": {
+            "old_price": "4167",
+            "price": "3167"
+        },
+        "img_url": "https://img4.labirint.ru/rc/f8189da5c77d39e4ffefcf4286099035/246x330/books53/521754/cover.jpg?1645025105"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/845005/",
+        "book_title": "Построение распределенных систем на базе WebSocket. Учебное пособие для вузов",
+        "book_autor": "Хабаров, Шилкина",
+        "price": {
+            "old_price": "3242",
+            "price": "2464"
+        },
+        "img_url": "https://img3.labirint.ru/rc/241d75cd9e4277a3e367f568459eae37/246x330/books85/845005/cover.jpg?1644852312"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/844105/",
+        "book_title": "Svelte и Sapper в действии",
+        "book_autor": "Марк Волкманн",
+        "price": {
+            "old_price": "4928",
+            "price": "3844"
+        },
+        "img_url": "https://img3.labirint.ru/rc/e77f9cc674c613419730d9b88330198f/246x330/books85/844105/cover.jpg?1644326706"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/840122/",
+        "book_title": "Хочу в геймдев! Основы игровой разработки для начинающих",
+        "book_autor": "Уточкин, Сахнов",
+        "price": {
+            "old_price": "no old price",
+            "price": "972"
+        },
+        "img_url": "https://img4.labirint.ru/rc/fe9041932d04b38ef350c626d70a1719/246x330/books85/840122/cover.jpg?1640791534"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/843721/",
+        "book_title": "Разработка игр и теория развлечений",
+        "book_autor": "Рэф Костер",
+        "price": {
+            "old_price": "2580",
+            "price": "1961"
+        },
+        "img_url": "https://img3.labirint.ru/rc/e0c1d1ec3dbb7f8be7ad9e0e5b67b919/246x330/books85/843721/cover.jpg?1644560705"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/843722/",
+        "book_title": "Структуры данных в Python. Начальный курс",
+        "book_autor": "Дональд Шихи",
+        "price": {
+            "old_price": "2064",
+            "price": "1569"
+        },
+        "img_url": "https://img4.labirint.ru/rc/5ee5ccc5f15ccff090b406af394a70c0/246x330/books85/843722/cover.jpg?1644560706"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/843294/",
+        "book_title": "Большая книга проектов Python",
+        "book_autor": "Эл Свейгарт",
+        "price": {
+            "old_price": "1983",
+            "price": "1547"
+        },
+        "img_url": "https://img4.labirint.ru/rc/9905172dd5e3dd72ddb6bd7d8eaad9c2/246x330/books85/843294/cover.jpg?1643700308"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/843295/",
+        "book_title": "System Design. Подготовка к сложному интервью",
+        "book_autor": "Алекс Сюй",
+        "price": {
+            "old_price": "1649",
+            "price": "1286"
+        },
+        "img_url": "https://img3.labirint.ru/rc/ea5594f6f404708e2e07194fbfe5973a/246x330/books85/843295/cover.jpg?1643700309"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/843297/",
+        "book_title": "Отзывчивый дизайн на HTML5 и CSS3 для любых устройств",
+        "book_autor": "Бен Фрэйн",
+        "price": {
+            "old_price": "2663",
+            "price": "2077"
+        },
+        "img_url": "https://img3.labirint.ru/rc/0f94135b3a8ad05367ec15dd29cd3106/246x330/books85/843297/cover.jpg?1643883909"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/843304/",
+        "book_title": "Глубокое обучение с подкреплением. Теория и практика на языке Python",
+        "book_autor": "Грессер, Кенг",
+        "price": {
+            "old_price": "2981",
+            "price": "2325"
+        },
+        "img_url": "https://img4.labirint.ru/rc/39bfc882128a91e36080f2136b9d2516/246x330/books85/843304/cover.jpg?1643696719"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/840960/",
+        "book_title": "Искусство WebAssembly. Создание безопасных межплатформенных высокопроизводительных приложений",
+        "book_autor": "Рик Баттальини",
+        "price": {
+            "old_price": "2580",
+            "price": "1961"
+        },
+        "img_url": "https://img4.labirint.ru/rc/ed079a02420d758c0fe126cb01e86487/246x330/books85/840960/cover.jpg?1642598707"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/840963/",
+        "book_title": "Ченаглу  Осваиваем архитектуру Transformer. Разработка современных моделей с помощью передовых методов",
+        "book_autor": "Йылдырым, Асгари",
+        "price": {
+            "old_price": "3354",
+            "price": "2549"
+        },
+        "img_url": "https://img3.labirint.ru/rc/54124fee2c2a8cce408dc3196586cfb6/246x330/books85/840963/cover.jpg?1642598709"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/840964/",
+        "book_title": "Основы юзабилититестирования",
+        "book_autor": "Кэрол Барнум",
+        "price": {
+            "old_price": "4127",
+            "price": "3137"
+        },
+        "img_url": "https://img4.labirint.ru/rc/e58af2f3597b0554b16a79e9d113ee96/246x330/books85/840964/cover.jpg?1642598710"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/840965/",
+        "book_title": "Творческие проекты с микроконтроллером в среде TinyGo и WebAssembly",
+        "book_autor": "Тобиас Тил",
+        "price": {
+            "old_price": "2837",
+            "price": "2156"
+        },
+        "img_url": "https://img3.labirint.ru/rc/e6cab25820e77d7d5f1d82c3cc6a6cc8/246x330/books85/840965/cover.jpg?1642598711"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/839022/",
+        "book_title": "Программирование на Python. Первые шаги",
+        "book_autor": "Анастасия Щерба",
+        "price": {
+            "old_price": "1046",
+            "price": "680"
+        },
+        "img_url": "https://img4.labirint.ru/rc/2856dd04a25062d5c59bb26b841cdc52/246x330/books84/839022/cover.jpg?1640683507"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/838998/",
+        "book_title": "Вычисления в кольцах некоммутативных многочленов. Учебное пособие для вузов",
+        "book_autor": "Владимир Цирулик",
+        "price": {
+            "old_price": "4021",
+            "price": "3056"
+        },
+        "img_url": "https://img4.labirint.ru/rc/c012cbb333e5cc07f630e4fc6f2899d4/246x330/books84/838998/cover.jpg?1640345139"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/838399/",
+        "book_title": "Практический анализ двоичных файлов",
+        "book_autor": "Дэннис Эндриесс",
+        "price": {
+            "old_price": "4127",
+            "price": "3137"
+        },
+        "img_url": "https://img3.labirint.ru/rc/f4ee727ece71b0edcc26ebb36e3ba892/246x330/books84/838399/cover.jpg?1640503520"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/838455/",
+        "book_title": "Изучаем C# через разработку игр на Unity",
+        "book_autor": "Харрисон Ферроне",
+        "price": {
+            "old_price": "1816",
+            "price": "1416"
+        },
+        "img_url": "https://img3.labirint.ru/rc/4d347e4eda97e23d4a6b7b636e6941ae/246x330/books84/838455/cover.jpg?1639733134"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/789438/",
+        "book_title": "Основы алгоритмизации и программирования на языке Паскаль. Лабораторный практикум. Учебное пособие",
+        "book_autor": "Ирина Коренская",
+        "price": {
+            "old_price": "1588",
+            "price": "1207"
+        },
+        "img_url": "https://img4.labirint.ru/rc/3cc3cc94278950985207e58b113680fd/246x330/books79/789438/cover.jpg?1639571108"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/836938/",
+        "book_title": "Исследование операций. Том 1. Линейное программирование. Учебник для вузов",
+        "book_autor": "Александр Трушков",
+        "price": {
+            "old_price": "2950",
+            "price": "2242"
+        },
+        "img_url": "https://img4.labirint.ru/rc/950471b01a6a16bf546bfee665073f8d/246x330/books84/836938/cover.jpg?1641817547"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/834902/",
+        "book_title": "Игра в цифры. Как аналитика позволяет видеоиграм жить лучше",
+        "book_autor": "Василий Сабиров",
+        "price": {
+            "old_price": "1635",
+            "price": "1275"
+        },
+        "img_url": "https://img4.labirint.ru/rc/092231619b48ab4d4d69b7492e056a04/246x330/books84/834902/cover.jpg?1638527107"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/834612/",
+        "book_title": "Apache Airflow и конвейеры обработки данных",
+        "book_autor": "Харенслак, Руйтер",
+        "price": {
+            "old_price": "4386",
+            "price": "3333"
+        },
+        "img_url": "https://img4.labirint.ru/rc/bfc0f1d95bb88a973ef59b19782ee642/246x330/books84/834612/cover.jpg?1638897938"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/834613/",
+        "book_title": "Python для всех",
+        "book_autor": "Чарльз Северанс",
+        "price": {
+            "old_price": "1547",
+            "price": "1176"
+        },
+        "img_url": "https://img3.labirint.ru/rc/e4128277a3ec58b119f9c386fa8cb5c8/246x330/books84/834613/cover.jpg?1638897939"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/598756/",
+        "book_title": "Практикум по проектированию на языках VerilogHDL и SystemVerilog. Учебное пособие",
+        "book_autor": "Мурсаев, Буренева",
+        "price": {
+            "old_price": "1356",
+            "price": "1031"
+        },
+        "img_url": "https://img4.labirint.ru/rc/433cc5e9deb35fc2818ed82a0d27aac0/246x330/books60/598756/cover.jpg?1645025107"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/834626/",
+        "book_title": "Использование языка Python в теории вероятности. Учебник",
+        "book_autor": "Сергей Криволапов",
+        "price": {
+            "old_price": "2852",
+            "price": "1569"
+        },
+        "img_url": "https://img4.labirint.ru/rc/56b46744cceeb2d75cb08fc55895e592/246x330/books84/834626/cover.jpg?1638699911"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/834636/",
+        "book_title": "Экономика на Python. Учебник",
+        "book_autor": "Хрипунова, Губернаторов",
+        "price": {
+            "old_price": "2150",
+            "price": "1183"
+        },
+        "img_url": "https://img4.labirint.ru/rc/c371e8d80a790985e011eda9f79b78fd/246x330/books84/834636/cover.jpg?1640535903"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/834362/",
+        "book_title": "Black Hat Python. Программирование для хакеров и пентестеров",
+        "book_autor": "Зейтц, Арнольд",
+        "price": {
+            "old_price": "1983",
+            "price": "1547"
+        },
+        "img_url": "https://img4.labirint.ru/rc/d33b1d37a8d5d0aa5ee1a85d5068d23e/246x330/books84/834362/cover.jpg?1637666760"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/834363/",
+        "book_title": "Однострочники Python. Лаконичный и содержательный код",
+        "book_autor": "Кристиан Майер",
+        "price": {
+            "old_price": "1983",
+            "price": "1547"
+        },
+        "img_url": "https://img3.labirint.ru/rc/746294b0f0c14ad89db83f03d5153227/246x330/books84/834363/cover.jpg?1637666760"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/834110/",
+        "book_title": "Гид Javaразработчика. Проектноориентированный подход",
+        "book_autor": "Урма, Уорбэртон",
+        "price": {
+            "old_price": "991",
+            "price": "773"
+        },
+        "img_url": "https://img4.labirint.ru/rc/5b3477f07ce06279be8d6c5c341a06e6/246x330/books84/834110/cover.jpg?1637666747"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/832978/",
+        "book_title": "Python и DevOps. Ключ к автоматизации Linux",
+        "book_autor": "Гифт, Берман",
+        "price": {
+            "old_price": "3006",
+            "price": "2345"
+        },
+        "img_url": "https://img4.labirint.ru/rc/cfdbf52ec2f20238e96ad6c31a4b7729/246x330/books84/832978/cover.jpg?1637141113"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/648331/",
+        "book_title": "Прикладное программирование на С/С++: с нуля",
+        "book_autor": "Всеволод Иванов",
+        "price": {
+            "old_price": "1290",
+            "price": "980"
+        },
+        "img_url": "https://img3.labirint.ru/rc/01c134fa1f6f246e6574ad01591d7f21/246x330/books65/648331/cover.jpg?1564119245"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/831911/",
+        "book_title": "Введение в логическое программирование",
+        "book_autor": "Дженесерет, Чаудри",
+        "price": {
+            "old_price": "2321",
+            "price": "1764"
+        },
+        "img_url": "https://img3.labirint.ru/rc/6c8701411bee7ea6c4a3365d5b01a914/246x330/books84/831911/cover.jpg?1637231159"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/831913/",
+        "book_title": "Параллельное программирование на C# и .NET Core",
+        "book_autor": "Танвар Шакти",
+        "price": {
+            "old_price": "2580",
+            "price": "1961"
+        },
+        "img_url": "https://img3.labirint.ru/rc/5e0000d3f6899f192de2f7d0988f392c/246x330/books84/831913/cover.jpg?1637231161"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/771559/",
+        "book_title": "Разработка игр на языке JavaScript. Учебное пособие",
+        "book_autor": "Сергей Беляев",
+        "price": {
+            "old_price": "669",
+            "price": "508"
+        },
+        "img_url": "https://img3.labirint.ru/rc/f8cd4258fe3f3f719eaddbd01147c996/246x330/books78/771559/cover.jpg?1603211110"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/829950/",
+        "book_title": "Параллельные и высокопроизводительные вычисления",
+        "book_autor": "Роби, Замора",
+        "price": {
+            "old_price": "5159",
+            "price": "3921"
+        },
+        "img_url": "https://img4.labirint.ru/rc/6f4b20e18151c13560ccf7691fae3386/246x330/books83/829950/cover.jpg?1636374311"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/830645/",
+        "book_title": "Исследование операций в экономике. Практикум. Учебное пособие для вузов",
+        "book_autor": "Виктор Слабнов",
+        "price": {
+            "old_price": "3791",
+            "price": "2881"
+        },
+        "img_url": "https://img3.labirint.ru/rc/5e6b96ee2fa316fc5513eecc6a9cbbf8/246x330/books84/830645/cover.jpg?1636723516"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/830329/",
+        "book_title": "Паттерны разработки на Python. TDD, DDD и событийноориентированная архитектура",
+        "book_autor": "Персиваль, Грегори",
+        "price": {
+            "old_price": "2496",
+            "price": "1947"
+        },
+        "img_url": "https://img3.labirint.ru/rc/9549acf0a948100e79b9ab7989d5ede1/246x330/books84/830329/cover.jpg?1635416711"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/830330/",
+        "book_title": "WebAssembly в действии",
+        "book_autor": "Жерар Галлан",
+        "price": {
+            "old_price": "3315",
+            "price": "2586"
+        },
+        "img_url": "https://img4.labirint.ru/rc/88bb4bb77f1ee54c2138cb7c17b4b7f4/246x330/books84/830330/cover.jpg?1635416712"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/829644/",
+        "book_title": "Тестирование программного обеспечения",
+        "book_autor": "Александр Игнатьев",
+        "price": {
+            "old_price": "677",
+            "price": "515"
+        },
+        "img_url": "https://img4.labirint.ru/rc/c342c4f9cf90d4bfff55761b4c6f77da/246x330/books83/829644/cover.jpg?1638257103"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/829645/",
+        "book_title": "Разработка моделей предметной области автоматизации. Учебник для вузов",
+        "book_autor": "Сергей Котлинский",
+        "price": {
+            "old_price": "4892",
+            "price": "3718"
+        },
+        "img_url": "https://img3.labirint.ru/rc/e224d510caf5807955cf6cb0408ac2b8/246x330/books83/829645/cover.jpg?1635693902"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/829646/",
+        "book_title": "Разработка моделей предметной области автоматизации. Учебник для СПО",
+        "book_autor": "Сергей Котлинский",
+        "price": {
+            "old_price": "4003",
+            "price": "3042"
+        },
+        "img_url": "https://img4.labirint.ru/rc/17dbc04f30512059b22d308f6def5439/246x330/books83/829646/cover.jpg?1635693903"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/829650/",
+        "book_title": "Проектирование человекомашинного взаимодействия. Учебник для вузов",
+        "book_autor": "Александр Игнатьев",
+        "price": {
+            "old_price": "677",
+            "price": "515"
+        },
+        "img_url": "https://img4.labirint.ru/rc/02fc901a1a6ab1aae2cc1c46811e8a95/246x330/books83/829650/cover.jpg?1638257105"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/829651/",
+        "book_title": "Программные коллекции данных. Проектирование и реализация. Учебник",
+        "book_autor": "Татьяна Романенко",
+        "price": {
+            "old_price": "2417",
+            "price": "1837"
+        },
+        "img_url": "https://img3.labirint.ru/rc/0f105df7495a2d19bc9114c819e3f16c/246x330/books83/829651/cover.jpg?1636889152"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/829652/",
+        "book_title": "Программные коллекции данных. Проектирование и реализация. Учебное пособие для СПО",
+        "book_autor": "Татьяна Романенко",
+        "price": {
+            "old_price": "2563",
+            "price": "1948"
+        },
+        "img_url": "https://img4.labirint.ru/rc/9a5ef993b729d30e28057bde7867199a/246x330/books83/829652/cover.jpg?1635693904"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/829838/",
+        "book_title": "C# 9 и .NET 5. Разработка и оптимизация",
+        "book_autor": "Марк Прайс",
+        "price": {
+            "old_price": "4162",
+            "price": "3246"
+        },
+        "img_url": "https://img4.labirint.ru/rc/38700b280841cbca572252ac4132d9ef/246x330/books83/829838/cover.jpg?1635175590"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/829289/",
+        "book_title": "Функциональное программирование. Учебник",
+        "book_autor": "Александр Гордиенко",
+        "price": {
+            "old_price": "1663",
+            "price": "1264"
+        },
+        "img_url": "https://img3.labirint.ru/rc/67be5d541b64d0f9d071adabc418de0f/246x330/books83/829289/cover.jpg?1638170713"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/828723/",
+        "book_title": "Clojure на производстве",
+        "book_autor": "Иван Гришаев",
+        "price": {
+            "old_price": "2580",
+            "price": "1961"
+        },
+        "img_url": "https://img3.labirint.ru/rc/e1b2c2326d952c9e9670eb2b64818c07/246x330/books83/828723/cover.jpg?1635171978"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/828724/",
+        "book_title": "Алгоритмы ГИС",
+        "book_autor": "Нинчуань Сяо",
+        "price": {
+            "old_price": "2672",
+            "price": "2031"
+        },
+        "img_url": "https://img4.labirint.ru/rc/7a22df1a86cfb3eb1fdeaad7aae2ac06/246x330/books83/828724/cover.jpg?1635171979"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/828725/",
+        "book_title": "Изучаем SHINY",
+        "book_autor": "Хэдли Уикем",
+        "price": {
+            "old_price": "3354",
+            "price": "2549"
+        },
+        "img_url": "https://img3.labirint.ru/rc/1674c0f0e6ddb1bd04f154b33a51d427/246x330/books83/828725/cover.jpg?1635171979"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/828096/",
+        "book_title": "Анализ поведенческих данных на R и PYTHON",
+        "book_autor": "Флоран Бюиссон",
+        "price": {
+            "old_price": "3354",
+            "price": "2549"
+        },
+        "img_url": "https://img4.labirint.ru/rc/1175640206c64ac31c0dfe729a85c391/246x330/books83/828096/cover.jpg?1634981110"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/828097/",
+        "book_title": "Оптимизация запросов PostgreSQL",
+        "book_autor": "Домбровская, Бейликова",
+        "price": {
+            "old_price": "2580",
+            "price": "1961"
+        },
+        "img_url": "https://img3.labirint.ru/rc/48d386189a76dcb485e5d32bb04017f3/246x330/books83/828097/cover.jpg?1634891127"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/828098/",
+        "book_title": "Разработка беспилотных транспортных средств",
+        "book_autor": "Лю, Ли",
+        "price": {
+            "old_price": "2580",
+            "price": "1961"
+        },
+        "img_url": "https://img4.labirint.ru/rc/a5d4c916cd10d0cfc43878df3e92f81e/246x330/books83/828098/cover.jpg?1634981110"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/828099/",
+        "book_title": "Сети 6G. Путь от 5G к 6G глазами разработчиков",
+        "book_autor": "Тонг, Ахаваин",
+        "price": {
+            "old_price": "5159",
+            "price": "3921"
+        },
+        "img_url": "https://img3.labirint.ru/rc/12153e7f83b11583782db382040c32a3/246x330/books83/828099/cover.jpg?1634891128"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/825689/",
+        "book_title": "Корпоративные информационные системы на базе решения Oracle EBusiness Suite. Калькуляция затрат",
+        "book_autor": "Васильева, Громова",
+        "price": {
+            "old_price": "1042",
+            "price": "573"
+        },
+        "img_url": "https://img3.labirint.ru/rc/de5920c96ddd32e844c07fd52177ce00/246x330/books83/825689/cover.jpg?1636907105"
+    }
+][
+    {
+        "book_url": "https://www.labirint.ru/books/834362/",
+        "book_title": "Black Hat Python. Программирование для хакеров и пентестеров",
+        "book_autor": "Зейтц, Арнольд",
+        "price": {
+            "old_price": "1983",
+            "price": "1547",
+            "percent_sale": 22
+        },
+        "img_url": "https://img4.labirint.ru/rc/d33b1d37a8d5d0aa5ee1a85d5068d23e/246x330/books84/834362/cover.jpg?1637666760"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/643363/",
+        "book_title": "Идеальный программист. Как стать профессионалом разработки ПО",
+        "book_autor": "Роберт Мартин",
+        "price": {
+            "old_price": "963",
+            "price": "751",
+            "percent_sale": 22
+        },
+        "img_url": "https://img3.labirint.ru/rc/15231cd1301d656dbecb9c163b741011/246x330/books65/643363/cover.jpg?1598959673"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/838455/",
+        "book_title": "Изучаем C# через разработку игр на Unity",
+        "book_autor": "Харрисон Ферроне",
+        "price": {
+            "old_price": "1816",
+            "price": "1416",
+            "percent_sale": 22
+        },
+        "img_url": "https://img3.labirint.ru/rc/4d347e4eda97e23d4a6b7b636e6941ae/246x330/books84/838455/cover.jpg?1639733134"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/386601/",
+        "book_title": "Архитектура компьютера",
+        "book_autor": "Таненбаум, Остин",
+        "price": {
+            "old_price": "2597",
+            "price": "2026",
+            "percent_sale": 22
+        },
+        "img_url": "https://img3.labirint.ru/rc/23a63fb6f0d84a3a5395b9e05135ded9/246x330/books39/386601/cover.jpg?1598869499"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/843295/",
+        "book_title": "System Design. Подготовка к сложному интервью",
+        "book_autor": "Алекс Сюй",
+        "price": {
+            "old_price": "1649",
+            "price": "1286",
+            "percent_sale": 22
+        },
+        "img_url": "https://img3.labirint.ru/rc/ea5594f6f404708e2e07194fbfe5973a/246x330/books85/843295/cover.jpg?1643700309"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/824993/",
+        "book_title": "Head First. Паттерны проектирования",
+        "book_autor": "Фримен, Сьерра",
+        "price": {
+            "old_price": "2430",
+            "price": "1895",
+            "percent_sale": 22
+        },
+        "img_url": "https://img3.labirint.ru/rc/5dc8a3555cfcbf5d858a29e9a3aaec4b/246x330/books83/824993/cover.jpg?1632921918"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/848217/",
+        "book_title": "Профессиональный бенчмарк. Искусство измерения производительности",
+        "book_autor": "Андрей Акиньшин",
+        "price": {
+            "old_price": "3329",
+            "price": "2597",
+            "percent_sale": 22
+        },
+        "img_url": "https://img3.labirint.ru/rc/4b8088770bd56137ef9669fa880f4d9b/246x330/books85/848217/cover.jpg?1645716338"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/846568/",
+        "book_title": "Этичный хакинг. Практическое руководство по взлому",
+        "book_autor": "Дэниел Грэм",
+        "price": {
+            "old_price": "2649",
+            "price": "2066",
+            "percent_sale": 22
+        },
+        "img_url": "https://img4.labirint.ru/rc/c8d18ea3d5cb2d5651b75e277513e1f6/246x330/books85/846568/cover.jpg?1645176306"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/830641/",
+        "book_title": "Основы построения экономических моделей в Excel. Учебник для СПО",
+        "book_autor": "Воскобойников, Мухина",
+        "price": {
+            "old_price": "2146",
+            "price": "1631",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/ba58001b591ae6733350790a881d4648/246x330/books84/830641/cover.jpg?1645694704"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/845326/",
+        "book_title": "Программирование на языке Си.Учебное пособие для СПО",
+        "book_autor": "Сергей Рацеев",
+        "price": {
+            "old_price": "3510",
+            "price": "2668",
+            "percent_sale": 24
+        },
+        "img_url": "https://img4.labirint.ru/rc/209eb1fa1bf61864329ee4b9c7159cb9/246x330/books85/845326/cover.jpg?1645694725"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/845328/",
+        "book_title": "JavaScript.Как писать программы.Учебное пособие для вузов",
+        "book_autor": "Валерий Янцев",
+        "price": {
+            "old_price": "2537",
+            "price": "1928",
+            "percent_sale": 24
+        },
+        "img_url": "https://img4.labirint.ru/rc/a6c864974b3684867d479851c0ed8dfb/246x330/books85/845328/cover.jpg?1645694727"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/845329/",
+        "book_title": "JavaScript.Как писать программы Учебное пособие для СПО",
+        "book_autor": "Валерий Янцев",
+        "price": {
+            "old_price": "2537",
+            "price": "1928",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/25d2823a6baeda4e9800469bc9f68a73/246x330/books85/845329/cover.jpg?1645694728"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/521754/",
+        "book_title": "Теория автоматического управления в примерах и задачах с решениями в MATLAB. Учебное пособие",
+        "book_autor": "Гайдук, Пьявченко",
+        "price": {
+            "old_price": "4167",
+            "price": "3167",
+            "percent_sale": 24
+        },
+        "img_url": "https://img4.labirint.ru/rc/f8189da5c77d39e4ffefcf4286099035/246x330/books53/521754/cover.jpg?1645025105"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/845005/",
+        "book_title": "Построение распределенных систем на базе WebSocket. Учебное пособие для вузов",
+        "book_autor": "Хабаров, Шилкина",
+        "price": {
+            "old_price": "3242",
+            "price": "2464",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/241d75cd9e4277a3e367f568459eae37/246x330/books85/845005/cover.jpg?1644852312"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/844105/",
+        "book_title": "Svelte и Sapper в действии",
+        "book_autor": "Марк Волкманн",
+        "price": {
+            "old_price": "4928",
+            "price": "3844",
+            "percent_sale": 22
+        },
+        "img_url": "https://img3.labirint.ru/rc/e77f9cc674c613419730d9b88330198f/246x330/books85/844105/cover.jpg?1644326706"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/840122/",
+        "book_title": "Хочу в геймдев! Основы игровой разработки для начинающих",
+        "book_autor": "Уточкин, Сахнов",
+        "price": {
+            "old_price": "no old price",
+            "price": "972",
+            "percent_sale": 22
+        },
+        "img_url": "https://img4.labirint.ru/rc/fe9041932d04b38ef350c626d70a1719/246x330/books85/840122/cover.jpg?1640791534"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/843721/",
+        "book_title": "Разработка игр и теория развлечений",
+        "book_autor": "Рэф Костер",
+        "price": {
+            "old_price": "2580",
+            "price": "1961",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/e0c1d1ec3dbb7f8be7ad9e0e5b67b919/246x330/books85/843721/cover.jpg?1644560705"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/843722/",
+        "book_title": "Структуры данных в Python. Начальный курс",
+        "book_autor": "Дональд Шихи",
+        "price": {
+            "old_price": "2064",
+            "price": "1569",
+            "percent_sale": 24
+        },
+        "img_url": "https://img4.labirint.ru/rc/5ee5ccc5f15ccff090b406af394a70c0/246x330/books85/843722/cover.jpg?1644560706"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/843294/",
+        "book_title": "Большая книга проектов Python",
+        "book_autor": "Эл Свейгарт",
+        "price": {
+            "old_price": "1983",
+            "price": "1547",
+            "percent_sale": 22
+        },
+        "img_url": "https://img4.labirint.ru/rc/9905172dd5e3dd72ddb6bd7d8eaad9c2/246x330/books85/843294/cover.jpg?1643700308"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/843295/",
+        "book_title": "System Design. Подготовка к сложному интервью",
+        "book_autor": "Алекс Сюй",
+        "price": {
+            "old_price": "1649",
+            "price": "1286",
+            "percent_sale": 22
+        },
+        "img_url": "https://img3.labirint.ru/rc/ea5594f6f404708e2e07194fbfe5973a/246x330/books85/843295/cover.jpg?1643700309"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/843297/",
+        "book_title": "Отзывчивый дизайн на HTML5 и CSS3 для любых устройств",
+        "book_autor": "Бен Фрэйн",
+        "price": {
+            "old_price": "2663",
+            "price": "2077",
+            "percent_sale": 22
+        },
+        "img_url": "https://img3.labirint.ru/rc/0f94135b3a8ad05367ec15dd29cd3106/246x330/books85/843297/cover.jpg?1643883909"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/843304/",
+        "book_title": "Глубокое обучение с подкреплением. Теория и практика на языке Python",
+        "book_autor": "Грессер, Кенг",
+        "price": {
+            "old_price": "2981",
+            "price": "2325",
+            "percent_sale": 22
+        },
+        "img_url": "https://img4.labirint.ru/rc/39bfc882128a91e36080f2136b9d2516/246x330/books85/843304/cover.jpg?1643696719"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/840960/",
+        "book_title": "Искусство WebAssembly. Создание безопасных межплатформенных высокопроизводительных приложений",
+        "book_autor": "Рик Баттальини",
+        "price": {
+            "old_price": "2580",
+            "price": "1961",
+            "percent_sale": 24
+        },
+        "img_url": "https://img4.labirint.ru/rc/ed079a02420d758c0fe126cb01e86487/246x330/books85/840960/cover.jpg?1642598707"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/840963/",
+        "book_title": "Ченаглу  Осваиваем архитектуру Transformer. Разработка современных моделей с помощью передовых методов",
+        "book_autor": "Йылдырым, Асгари",
+        "price": {
+            "old_price": "3354",
+            "price": "2549",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/54124fee2c2a8cce408dc3196586cfb6/246x330/books85/840963/cover.jpg?1642598709"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/840964/",
+        "book_title": "Основы юзабилититестирования",
+        "book_autor": "Кэрол Барнум",
+        "price": {
+            "old_price": "4127",
+            "price": "3137",
+            "percent_sale": 24
+        },
+        "img_url": "https://img4.labirint.ru/rc/e58af2f3597b0554b16a79e9d113ee96/246x330/books85/840964/cover.jpg?1642598710"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/840965/",
+        "book_title": "Творческие проекты с микроконтроллером в среде TinyGo и WebAssembly",
+        "book_autor": "Тобиас Тил",
+        "price": {
+            "old_price": "2837",
+            "price": "2156",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/e6cab25820e77d7d5f1d82c3cc6a6cc8/246x330/books85/840965/cover.jpg?1642598711"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/839022/",
+        "book_title": "Программирование на Python. Первые шаги",
+        "book_autor": "Анастасия Щерба",
+        "price": {
+            "old_price": "1046",
+            "price": "680",
+            "percent_sale": 35
+        },
+        "img_url": "https://img4.labirint.ru/rc/2856dd04a25062d5c59bb26b841cdc52/246x330/books84/839022/cover.jpg?1640683507"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/838998/",
+        "book_title": "Вычисления в кольцах некоммутативных многочленов. Учебное пособие для вузов",
+        "book_autor": "Владимир Цирулик",
+        "price": {
+            "old_price": "4021",
+            "price": "3056",
+            "percent_sale": 24
+        },
+        "img_url": "https://img4.labirint.ru/rc/c012cbb333e5cc07f630e4fc6f2899d4/246x330/books84/838998/cover.jpg?1640345139"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/838399/",
+        "book_title": "Практический анализ двоичных файлов",
+        "book_autor": "Дэннис Эндриесс",
+        "price": {
+            "old_price": "4127",
+            "price": "3137",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/f4ee727ece71b0edcc26ebb36e3ba892/246x330/books84/838399/cover.jpg?1640503520"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/838455/",
+        "book_title": "Изучаем C# через разработку игр на Unity",
+        "book_autor": "Харрисон Ферроне",
+        "price": {
+            "old_price": "1816",
+            "price": "1416",
+            "percent_sale": 22
+        },
+        "img_url": "https://img3.labirint.ru/rc/4d347e4eda97e23d4a6b7b636e6941ae/246x330/books84/838455/cover.jpg?1639733134"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/789438/",
+        "book_title": "Основы алгоритмизации и программирования на языке Паскаль. Лабораторный практикум. Учебное пособие",
+        "book_autor": "Ирина Коренская",
+        "price": {
+            "old_price": "1588",
+            "price": "1207",
+            "percent_sale": 24
+        },
+        "img_url": "https://img4.labirint.ru/rc/3cc3cc94278950985207e58b113680fd/246x330/books79/789438/cover.jpg?1639571108"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/836938/",
+        "book_title": "Исследование операций. Том 1. Линейное программирование. Учебник для вузов",
+        "book_autor": "Александр Трушков",
+        "price": {
+            "old_price": "2950",
+            "price": "2242",
+            "percent_sale": 24
+        },
+        "img_url": "https://img4.labirint.ru/rc/950471b01a6a16bf546bfee665073f8d/246x330/books84/836938/cover.jpg?1641817547"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/834902/",
+        "book_title": "Игра в цифры. Как аналитика позволяет видеоиграм жить лучше",
+        "book_autor": "Василий Сабиров",
+        "price": {
+            "old_price": "1635",
+            "price": "1275",
+            "percent_sale": 22
+        },
+        "img_url": "https://img4.labirint.ru/rc/092231619b48ab4d4d69b7492e056a04/246x330/books84/834902/cover.jpg?1638527107"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/834612/",
+        "book_title": "Apache Airflow и конвейеры обработки данных",
+        "book_autor": "Харенслак, Руйтер",
+        "price": {
+            "old_price": "4386",
+            "price": "3333",
+            "percent_sale": 24
+        },
+        "img_url": "https://img4.labirint.ru/rc/bfc0f1d95bb88a973ef59b19782ee642/246x330/books84/834612/cover.jpg?1638897938"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/834613/",
+        "book_title": "Python для всех",
+        "book_autor": "Чарльз Северанс",
+        "price": {
+            "old_price": "1547",
+            "price": "1176",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/e4128277a3ec58b119f9c386fa8cb5c8/246x330/books84/834613/cover.jpg?1638897939"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/598756/",
+        "book_title": "Практикум по проектированию на языках VerilogHDL и SystemVerilog. Учебное пособие",
+        "book_autor": "Мурсаев, Буренева",
+        "price": {
+            "old_price": "1356",
+            "price": "1031",
+            "percent_sale": 24
+        },
+        "img_url": "https://img4.labirint.ru/rc/433cc5e9deb35fc2818ed82a0d27aac0/246x330/books60/598756/cover.jpg?1645025107"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/834626/",
+        "book_title": "Использование языка Python в теории вероятности. Учебник",
+        "book_autor": "Сергей Криволапов",
+        "price": {
+            "old_price": "2852",
+            "price": "1569",
+            "percent_sale": 45
+        },
+        "img_url": "https://img4.labirint.ru/rc/56b46744cceeb2d75cb08fc55895e592/246x330/books84/834626/cover.jpg?1638699911"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/834636/",
+        "book_title": "Экономика на Python. Учебник",
+        "book_autor": "Хрипунова, Губернаторов",
+        "price": {
+            "old_price": "2150",
+            "price": "1183",
+            "percent_sale": 45
+        },
+        "img_url": "https://img4.labirint.ru/rc/c371e8d80a790985e011eda9f79b78fd/246x330/books84/834636/cover.jpg?1640535903"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/834362/",
+        "book_title": "Black Hat Python. Программирование для хакеров и пентестеров",
+        "book_autor": "Зейтц, Арнольд",
+        "price": {
+            "old_price": "1983",
+            "price": "1547",
+            "percent_sale": 22
+        },
+        "img_url": "https://img4.labirint.ru/rc/d33b1d37a8d5d0aa5ee1a85d5068d23e/246x330/books84/834362/cover.jpg?1637666760"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/834363/",
+        "book_title": "Однострочники Python. Лаконичный и содержательный код",
+        "book_autor": "Кристиан Майер",
+        "price": {
+            "old_price": "1983",
+            "price": "1547",
+            "percent_sale": 22
+        },
+        "img_url": "https://img3.labirint.ru/rc/746294b0f0c14ad89db83f03d5153227/246x330/books84/834363/cover.jpg?1637666760"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/834110/",
+        "book_title": "Гид Javaразработчика. Проектноориентированный подход",
+        "book_autor": "Урма, Уорбэртон",
+        "price": {
+            "old_price": "991",
+            "price": "773",
+            "percent_sale": 22
+        },
+        "img_url": "https://img4.labirint.ru/rc/5b3477f07ce06279be8d6c5c341a06e6/246x330/books84/834110/cover.jpg?1637666747"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/832978/",
+        "book_title": "Python и DevOps. Ключ к автоматизации Linux",
+        "book_autor": "Гифт, Берман",
+        "price": {
+            "old_price": "3006",
+            "price": "2345",
+            "percent_sale": 22
+        },
+        "img_url": "https://img4.labirint.ru/rc/cfdbf52ec2f20238e96ad6c31a4b7729/246x330/books84/832978/cover.jpg?1637141113"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/648331/",
+        "book_title": "Прикладное программирование на С/С++: с нуля",
+        "book_autor": "Всеволод Иванов",
+        "price": {
+            "old_price": "1290",
+            "price": "980",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/01c134fa1f6f246e6574ad01591d7f21/246x330/books65/648331/cover.jpg?1564119245"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/831911/",
+        "book_title": "Введение в логическое программирование",
+        "book_autor": "Дженесерет, Чаудри",
+        "price": {
+            "old_price": "2321",
+            "price": "1764",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/6c8701411bee7ea6c4a3365d5b01a914/246x330/books84/831911/cover.jpg?1637231159"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/831913/",
+        "book_title": "Параллельное программирование на C# и .NET Core",
+        "book_autor": "Танвар Шакти",
+        "price": {
+            "old_price": "2580",
+            "price": "1961",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/5e0000d3f6899f192de2f7d0988f392c/246x330/books84/831913/cover.jpg?1637231161"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/771559/",
+        "book_title": "Разработка игр на языке JavaScript. Учебное пособие",
+        "book_autor": "Сергей Беляев",
+        "price": {
+            "old_price": "669",
+            "price": "508",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/f8cd4258fe3f3f719eaddbd01147c996/246x330/books78/771559/cover.jpg?1603211110"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/829950/",
+        "book_title": "Параллельные и высокопроизводительные вычисления",
+        "book_autor": "Роби, Замора",
+        "price": {
+            "old_price": "5159",
+            "price": "3921",
+            "percent_sale": 24
+        },
+        "img_url": "https://img4.labirint.ru/rc/6f4b20e18151c13560ccf7691fae3386/246x330/books83/829950/cover.jpg?1636374311"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/830645/",
+        "book_title": "Исследование операций в экономике. Практикум. Учебное пособие для вузов",
+        "book_autor": "Виктор Слабнов",
+        "price": {
+            "old_price": "3791",
+            "price": "2881",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/5e6b96ee2fa316fc5513eecc6a9cbbf8/246x330/books84/830645/cover.jpg?1636723516"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/830329/",
+        "book_title": "Паттерны разработки на Python. TDD, DDD и событийноориентированная архитектура",
+        "book_autor": "Персиваль, Грегори",
+        "price": {
+            "old_price": "2496",
+            "price": "1947",
+            "percent_sale": 22
+        },
+        "img_url": "https://img3.labirint.ru/rc/9549acf0a948100e79b9ab7989d5ede1/246x330/books84/830329/cover.jpg?1635416711"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/830330/",
+        "book_title": "WebAssembly в действии",
+        "book_autor": "Жерар Галлан",
+        "price": {
+            "old_price": "3315",
+            "price": "2586",
+            "percent_sale": 22
+        },
+        "img_url": "https://img4.labirint.ru/rc/88bb4bb77f1ee54c2138cb7c17b4b7f4/246x330/books84/830330/cover.jpg?1635416712"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/829644/",
+        "book_title": "Тестирование программного обеспечения",
+        "book_autor": "Александр Игнатьев",
+        "price": {
+            "old_price": "677",
+            "price": "515",
+            "percent_sale": 24
+        },
+        "img_url": "https://img4.labirint.ru/rc/c342c4f9cf90d4bfff55761b4c6f77da/246x330/books83/829644/cover.jpg?1638257103"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/829645/",
+        "book_title": "Разработка моделей предметной области автоматизации. Учебник для вузов",
+        "book_autor": "Сергей Котлинский",
+        "price": {
+            "old_price": "4892",
+            "price": "3718",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/e224d510caf5807955cf6cb0408ac2b8/246x330/books83/829645/cover.jpg?1635693902"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/829646/",
+        "book_title": "Разработка моделей предметной области автоматизации. Учебник для СПО",
+        "book_autor": "Сергей Котлинский",
+        "price": {
+            "old_price": "4003",
+            "price": "3042",
+            "percent_sale": 24
+        },
+        "img_url": "https://img4.labirint.ru/rc/17dbc04f30512059b22d308f6def5439/246x330/books83/829646/cover.jpg?1635693903"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/829650/",
+        "book_title": "Проектирование человекомашинного взаимодействия. Учебник для вузов",
+        "book_autor": "Александр Игнатьев",
+        "price": {
+            "old_price": "677",
+            "price": "515",
+            "percent_sale": 24
+        },
+        "img_url": "https://img4.labirint.ru/rc/02fc901a1a6ab1aae2cc1c46811e8a95/246x330/books83/829650/cover.jpg?1638257105"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/829651/",
+        "book_title": "Программные коллекции данных. Проектирование и реализация. Учебник",
+        "book_autor": "Татьяна Романенко",
+        "price": {
+            "old_price": "2417",
+            "price": "1837",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/0f105df7495a2d19bc9114c819e3f16c/246x330/books83/829651/cover.jpg?1636889152"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/829652/",
+        "book_title": "Программные коллекции данных. Проектирование и реализация. Учебное пособие для СПО",
+        "book_autor": "Татьяна Романенко",
+        "price": {
+            "old_price": "2563",
+            "price": "1948",
+            "percent_sale": 24
+        },
+        "img_url": "https://img4.labirint.ru/rc/9a5ef993b729d30e28057bde7867199a/246x330/books83/829652/cover.jpg?1635693904"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/829838/",
+        "book_title": "C# 9 и .NET 5. Разработка и оптимизация",
+        "book_autor": "Марк Прайс",
+        "price": {
+            "old_price": "4162",
+            "price": "3246",
+            "percent_sale": 22
+        },
+        "img_url": "https://img4.labirint.ru/rc/38700b280841cbca572252ac4132d9ef/246x330/books83/829838/cover.jpg?1635175590"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/829289/",
+        "book_title": "Функциональное программирование. Учебник",
+        "book_autor": "Александр Гордиенко",
+        "price": {
+            "old_price": "1663",
+            "price": "1264",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/67be5d541b64d0f9d071adabc418de0f/246x330/books83/829289/cover.jpg?1638170713"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/828723/",
+        "book_title": "Clojure на производстве",
+        "book_autor": "Иван Гришаев",
+        "price": {
+            "old_price": "2580",
+            "price": "1961",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/e1b2c2326d952c9e9670eb2b64818c07/246x330/books83/828723/cover.jpg?1635171978"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/828724/",
+        "book_title": "Алгоритмы ГИС",
+        "book_autor": "Нинчуань Сяо",
+        "price": {
+            "old_price": "2672",
+            "price": "2031",
+            "percent_sale": 24
+        },
+        "img_url": "https://img4.labirint.ru/rc/7a22df1a86cfb3eb1fdeaad7aae2ac06/246x330/books83/828724/cover.jpg?1635171979"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/828725/",
+        "book_title": "Изучаем SHINY",
+        "book_autor": "Хэдли Уикем",
+        "price": {
+            "old_price": "3354",
+            "price": "2549",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/1674c0f0e6ddb1bd04f154b33a51d427/246x330/books83/828725/cover.jpg?1635171979"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/828096/",
+        "book_title": "Анализ поведенческих данных на R и PYTHON",
+        "book_autor": "Флоран Бюиссон",
+        "price": {
+            "old_price": "3354",
+            "price": "2549",
+            "percent_sale": 24
+        },
+        "img_url": "https://img4.labirint.ru/rc/1175640206c64ac31c0dfe729a85c391/246x330/books83/828096/cover.jpg?1634981110"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/828097/",
+        "book_title": "Оптимизация запросов PostgreSQL",
+        "book_autor": "Домбровская, Бейликова",
+        "price": {
+            "old_price": "2580",
+            "price": "1961",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/48d386189a76dcb485e5d32bb04017f3/246x330/books83/828097/cover.jpg?1634891127"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/828098/",
+        "book_title": "Разработка беспилотных транспортных средств",
+        "book_autor": "Лю, Ли",
+        "price": {
+            "old_price": "2580",
+            "price": "1961",
+            "percent_sale": 24
+        },
+        "img_url": "https://img4.labirint.ru/rc/a5d4c916cd10d0cfc43878df3e92f81e/246x330/books83/828098/cover.jpg?1634981110"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/828099/",
+        "book_title": "Сети 6G. Путь от 5G к 6G глазами разработчиков",
+        "book_autor": "Тонг, Ахаваин",
+        "price": {
+            "old_price": "5159",
+            "price": "3921",
+            "percent_sale": 24
+        },
+        "img_url": "https://img3.labirint.ru/rc/12153e7f83b11583782db382040c32a3/246x330/books83/828099/cover.jpg?1634891128"
+    },
+    {
+        "book_url": "https://www.labirint.ru/books/825689/",
+        "book_title": "Корпоративные информационные системы на базе решения Oracle EBusiness Suite. Калькуляция затрат",
+        "book_autor": "Васильева, Громова",
+        "price": {
+            "old_price": "1042",
+            "price": "573",
+            "percent_sale": 45
+        },
+        "img_url": "https://img3.labirint.ru/rc/de5920c96ddd32e844c07fd52177ce00/246x330/books83/825689/cover.jpg?1636907105"
+    }
+]
